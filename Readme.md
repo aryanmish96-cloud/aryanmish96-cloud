@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am Aryan Mishra, a B.Tech CSE (AI-ML) student and an AI/ML Intern at Infosys Springboard. I actively practice Data Structures and Algorithms using Java to strengthen my problem-solving skills and build a strong foundation in computer science. Currently, I am learning Machine Learning and exploring how intelligent systems are built and deployed in real-world applications. I am passionate about writing clean code, building impactful projects, and continuously improving my technical skills to become an industry-ready Software and Machine Learning Engineer.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_awwryan._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmish96@gmail.com) 
@@ -8,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=aryanmish96-cloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aryanmish96-cloud&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmish96-cloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aryanmish96-cloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aryanmish96-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
