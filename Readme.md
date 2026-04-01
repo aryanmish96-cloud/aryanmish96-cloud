@@ -1,8 +1,4 @@
-div align="center">
-  <img src="github_banner.png" alt="Aryan Mishra Banner" width="1000px">
-  
-  <br/>
-  
+
   <h1>Greetings! I'm Aryan Mishra 👋</h1>
   <p><i>B.Tech CSE (AI-ML) Student | AI/ML Intern @ Infosys Springboard | Data Structures Enthusiast</i></p>
 
