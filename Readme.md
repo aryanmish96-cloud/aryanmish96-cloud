@@ -57,39 +57,10 @@ open_to:      ML internships · applied research · open-source collabs
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,java,fastapi,postgres&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github&theme=dark" /><br/><br/>
-<sub><b>Also:</b> Machine Learning · SQL · System Design</sub>
-
-</div>
-<br/>
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
-<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,docker,kubernetes,git,github&theme=dark" /><br/><br/>
+<sub><b>Also:</b> Pandas · NumPy · Machine Learning · SQL · System Design</sub>
 04 GitHub, by the numbers
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aryanmish96-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_rank=false" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmish96-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="160"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmish96-cloud&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150"/>
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanmish96-cloud&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="100%"/>
-</div>
-<br/>
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
-<br/>
 05 Trophy case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryanmish96-cloud&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6"/>
-</div>
-<br/>
-<div align="center">
 <sub>Every green square is a system that got shipped, not just started.</sub>
-
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aryanmish96-cloud&label=Profile+Views&color=58A6FF&style=flat-square"/>
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
