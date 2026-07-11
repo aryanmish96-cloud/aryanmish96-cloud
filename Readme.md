@@ -1,157 +1,94 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00D1FF&height=200&section=header&text=Aryan%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Building+Deployable+Intelligent+Systems;Data-Driven+Problem+Solver;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-<br/>
-<a href="https://linkedin.com/in/aryan-mishra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/_awwryan._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:aryanmish96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/aryanmish96-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ARYAN%20MISHRA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20crafting%20deployable%20intelligent%20systems&descAlignY=58&descSize=20&descColor=8b949e" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+research+into+production+systems;AI%2FML+Intern+%40+Infosys+Springboard;Signal+Processing+%C3%97+Applied+Machine+Learning;Always+shipping%2C+never+just+prototyping" />
+<br/><br/>
+
+<a href="https://linkedin.com/in/aryan-mishra"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=58A6FF&color=161b22"/></a> 
+<a href="mailto:aryanmish96@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=58A6FF&color=161b22"/></a> 
+<a href="https://instagram.com/_awwryan._"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=58A6FF&color=161b22"/></a> 
+<a href="https://github.com/aryanmish96-cloud"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=58A6FF&color=161b22"/></a>
 
 </div>
 <br/>
-🧠 About Me
+<div align="center">
+  <sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub>
+</div>
+<br/>
+01 Snapshot
 
-I'm an AI/ML Engineer in the making, currently working as an AI/ML Intern at Infosys Springboard, focused on turning research-grade ideas into deployable, real-world systems — not just notebooks that stop at a demo.
-
-pythonclass AryanMishra:
-    def __init__(self):
-        self.role         = "AI/ML Engineer"
-        self.currently    = "AI/ML Intern @ Infosys Springboard"
-        self.focus        = ["Applied ML", "Signal Processing", "AI-Powered Tooling"]
-        self.philosophy   = "Ship it. Don't just prototype it."
-
-    def current_goals(self):
-        return [
-            "Become an internship-ready AI Engineer",
-            "Master end-to-end ML pipelines",
-            "Ship production-grade AI systems",
-            "Land a role at a top product-based company"
-        ]
+yamlname:         Aryan Mishra
+role:         AI / ML Engineer
+currently:    AI/ML Intern @ Infosys Springboard
+focus:        [Applied ML, Signal Processing, AI-Powered Developer Tools]
+philosophy:   "Ship it. Don't just prototype it."
+open_to:      ML internships · applied research · open-source collabs
 
 <br/>
-🏆 Highlight Projects
+<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
+<br/>
+02 Selected Work
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-🔹 CodeScope AI
-
-AI-powered repository analyzer that visualizes code structure, dependencies, and execution flow.
-
-
-📊 Graph-based repo visualization
-⚡ AI-driven code comprehension
-🌐 Deployed as a web-based system
-
-
-Python AI/NLP Graph Visualization
-
+<td width="33%" valign="top">
+<h4>🔎 CodeScope AI</h4>
+<p><sub>AI-powered repository analyzer — visualizes code structure, dependencies, and execution flow as an interactive graph.</sub></p>
+<sub><b>Stack:</b> Python · NLP · Graph Viz</sub>
 </td>
-<td width="50%" valign="top">
-🔹 NeuroPulseAI
-
-Real-time EMG (muscle signal) analysis system for healthcare monitoring and rehabilitation.
-
-
-📈 Live signal processing & visualization
-🧠 AI-based pattern detection
-💊 Applied to stroke recovery & muscle monitoring
-
-
-Signal Processing AI Healthcare Tech
-
+<td width="33%" valign="top">
+<h4>🩺 NeuroPulseAI</h4>
+<p><sub>Real-time EMG signal analysis for stroke recovery and rehabilitation monitoring, with a live processing dashboard.</sub></p>
+<sub><b>Stack:</b> Signal Processing · AI · HealthTech</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-🔹 BrainWave Analyzer
-
-Low-cost EEG-based system for brainwave analysis and smart automation.
-
-
-🧠 Classifies Alpha, Beta, Theta, Delta waves
-⚡ Real-time analytics dashboard
-🤖 Automation driven by focus/meditation states
-
-
-EEG Arduino Real-Time Dashboards
-
-</td>
-<td width="50%" valign="top">
-🔹 Have a project idea?
-
-I'm always looking for the next system worth building.
-
-Open to: ML internships · applied research collabs · open-source contributions
-
-📬 Reach out via email or LinkedIn
-
+<td width="33%" valign="top">
+<h4>🧠 BrainWave Analyzer</h4>
+<p><sub>Low-cost EEG system classifying Alpha/Beta/Theta/Delta waves, driving automation from focus & meditation states.</sub></p>
+<sub><b>Stack:</b> EEG · Arduino · Real-Time Analytics</sub>
 </td>
 </tr>
 </table>
+<div align="right">
+<sub><i>→ full write-ups pinned on my profile</i></sub>
+</div>
 <br/>
-💻 Tech Stack
+<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
+<br/>
+03 Stack
 
 <div align="center">
-Core Programming
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-AI / Data Science
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-
-Tools & Deployment
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,postgres&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,arduino&theme=dark" />
 
 </div>
 <br/>
-📊 GitHub Analytics
+<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
+<br/>
+04 GitHub, by the numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aryanmish96-cloud&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmish96-cloud&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmish96-cloud&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=aryanmish96-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_rank=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmish96-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="160"/>
 <br/>
-📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanmish96-cloud&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-<br/>
-🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/aryanmish96-cloud/aryanmish96-cloud/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-💡 Note: the snake graphic above needs a one-time GitHub Actions setup in your profile repo. Ask me and I'll walk you through adding the workflow file — it's a 5-minute setup that auto-updates on every push.
-
-
-
-<br/>
-💬 Words I Build By
-
-
-"AI is not the future. It is the present — and I am building it."
-
-
-
-<br/>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aryanmish96-cloud&label=PROFILE+VIEWS&color=00D1FF&style=for-the-badge"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanmish96-cloud&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150"/>
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanmish96-cloud&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="100%"/>
 </div>
+<br/>
+<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
+<br/>
+05 Trophy case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aryanmish96-cloud&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6"/>
+</div>
+<br/>
+<div align="center">
+<sub>Every green square is a system that got shipped, not just started.</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aryanmish96-cloud&label=Profile+Views&color=58A6FF&style=flat-square"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
